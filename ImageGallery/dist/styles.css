@@ -563,6 +563,10 @@ video {
   padding: 1.5rem;
 }
 
+.p-4 {
+  padding: 1rem;
+}
+
 .text-f-color {
   --tw-text-opacity: 1;
   color: rgb(242 242 242 / var(--tw-text-opacity));
