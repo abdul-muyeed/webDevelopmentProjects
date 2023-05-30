@@ -1,5 +1,5 @@
-Tailwind/.vscode
-Tailwind/node_modules
-Tailwind/src
-Tailwind/*.json
-Tailwind/*.config.js
+ImageGallery/.vscode
+ImageGallery/node_modules
+ImageGallery/src
+ImageGallery/*.json
+ImageGallery/*.config.js
