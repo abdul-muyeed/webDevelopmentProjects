@@ -1,5 +1,5 @@
-.vscode
-node_modules
-src
-*.json
-*.config.js
+Tailwind/.vscode
+Tailwind/node_modules
+Tailwind/src
+Tailwind/*.json
+Tailwind/*.config.js
