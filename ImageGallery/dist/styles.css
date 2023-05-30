@@ -526,16 +526,16 @@ video {
   position: fixed;
 }
 
-.top-0 {
-  top: 0px;
-}
-
 .left-0 {
   left: 0px;
 }
 
 .right-0 {
   right: 0px;
+}
+
+.top-0 {
+  top: 0px;
 }
 
 .flex {
@@ -556,19 +556,7 @@ video {
 
 .bg-top-nav {
   --tw-bg-opacity: 1;
-  background-color: rgb(0 0 0 / var(--tw-bg-opacity));
-}
-
-.bg-top {
-  background-position: top;
-}
-
-.p-5 {
-  padding: 1.25rem;
-}
-
-.p-4 {
-  padding: 1rem;
+  background-color: rgb(26 26 26 / var(--tw-bg-opacity));
 }
 
 .p-6 {
@@ -577,5 +565,5 @@ video {
 
 .text-f-color {
   --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
+  color: rgb(242 242 242 / var(--tw-text-opacity));
 }
